@@ -16,7 +16,7 @@ Installation
 
 Install with pip::
 
-    pip install channels_mqtt
+    pip install https://github.com/ruralscenery/channels_mqtt.git
 
 Settings
 --------
